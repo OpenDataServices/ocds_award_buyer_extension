@@ -1,0 +1,21 @@
+{
+  "name": {
+    "en": "Award buyer extension"
+  },
+  "description": {
+    "en": "Adds a buyer to field to Award."
+  },
+  "documentationUrl": {
+    "en": "https://github.com/OpenDataServices/ocds_award_buyer_extension"
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+  "compatibility": [
+    "1.1"
+  ],
+  "contactPoint": {
+    "name": "Duncan Dewhurst",
+    "email": "duncan.dewhurst@opendataservices.coop"
+  }
+}

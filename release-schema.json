@@ -1,0 +1,13 @@
+{
+  "definitions": {
+    "Award": {
+      "properties": {
+        "buyer": {
+          "title": "Buyer",
+          "description": "The buyer for this award. A buyer is an entity whose budget will be used to pay for goods, works or services related to a contract. This may be different from the procuring entity who may be specified in the tender data.",
+          "$ref": "#/definitions/OrganizationReference"
+        }
+      }
+    }
+  }
+}
